@@ -1,0 +1,2584 @@
+{
+  "data": {
+    "type": "OFFICIAL",
+    "style": "IOI",
+    "totalEntries": 182,
+    "updatedTime": 1663992020332,
+    "scoreboard": {
+      "content": {
+        "entries": [
+          {
+            "contestantUsername": "Andreas Timothy",
+            "contestantRating": 0,
+            "totalScores": 530,
+            "lastAffectingPenalty": 9750272,
+            "scores": [null, 100, 100, 30, 100, null, 100, 100],
+            "rank": 1,
+            "contestantJid": "JIDUSERkEWIcQQ8WZOcIykv9gbD"
+          },
+          {
+            "contestantUsername": "Vannes Wijaya",
+            "contestantRating": 0,
+            "totalScores": 450,
+            "lastAffectingPenalty": 8922483,
+            "scores": [100, 20, 100, 30, 0, 0, 100, 100],
+            "rank": 2,
+            "contestantJid": "JIDUSERkiEGhOAq9O5JI4CX8QrJ"
+          },
+          {
+            "contestantUsername": "Audra Aurora Izzani",
+            "contestantRating": 0,
+            "totalScores": 440,
+            "lastAffectingPenalty": 8961988,
+            "scores": [0, 100, 100, 5, null, 35, 100, 100],
+            "rank": 3,
+            "contestantJid": "JIDUSERGbX6CV8Gdj1rtQqUOOpR"
+          },
+          {
+            "contestantUsername": "Benedict Presley",
+            "contestantRating": 0,
+            "totalScores": 430,
+            "lastAffectingPenalty": 7258701,
+            "scores": [null, 100, 30, 100, null, null, 100, 100],
+            "rank": 4,
+            "contestantJid": "JIDUSERi3m9E4P3E1y20RZjchcU"
+          },
+          {
+            "contestantUsername": "Joceline Araki",
+            "contestantRating": 0,
+            "totalScores": 430,
+            "lastAffectingPenalty": 8315185,
+            "scores": [null, 100, 100, 30, null, null, 100, 100],
+            "rank": 4,
+            "contestantJid": "JIDUSERxfDxKTAdWyYgdy4xf1zB"
+          },
+          {
+            "contestantUsername": "Albert Ariel Putra",
+            "contestantRating": 0,
+            "totalScores": 395,
+            "lastAffectingPenalty": 10452759,
+            "scores": [null, 100, 30, 30, null, 35, 100, 100],
+            "rank": 6,
+            "contestantJid": "JIDUSERwZIM4iPFLQoVtYpjSfMm"
+          },
+          {
+            "contestantUsername": "Kelven Nathanael",
+            "contestantRating": 0,
+            "totalScores": 385,
+            "lastAffectingPenalty": 10449824,
+            "scores": [null, 20, 100, 30, null, 35, 100, 100],
+            "rank": 7,
+            "contestantJid": "JIDUSERy86zgA1wVsw70DvX0ogU"
+          },
+          {
+            "contestantUsername": "Gustav Ian Setiabudi",
+            "contestantRating": 0,
+            "totalScores": 350,
+            "lastAffectingPenalty": 9505159,
+            "scores": [null, 20, 100, 30, null, 0, 100, 100],
+            "rank": 8,
+            "contestantJid": "JIDUSERARskhuXEJKpNxkBuBAKJ"
+          },
+          {
+            "contestantUsername": "Nathan Keith Poernama",
+            "contestantRating": 0,
+            "totalScores": 350,
+            "lastAffectingPenalty": 10440059,
+            "scores": [null, 20, 100, 30, 0, null, 100, 100],
+            "rank": 8,
+            "contestantJid": "JIDUSERFhHG5ncVYqq3fdgUxMRY"
+          },
+          {
+            "contestantUsername": "Danar Abiyoga Prakosa",
+            "contestantRating": 0,
+            "totalScores": 340,
+            "lastAffectingPenalty": 10767491,
+            "scores": [40, 20, 50, 30, 0, null, 100, 100],
+            "rank": 10,
+            "contestantJid": "JIDUSERIE63zYsgUR4pNudTlMjs"
+          },
+          {
+            "contestantUsername": "Anders Willard Leo",
+            "contestantRating": 0,
+            "totalScores": 330,
+            "lastAffectingPenalty": 3858943,
+            "scores": [null, 100, 0, 30, null, null, 100, 100],
+            "rank": 11,
+            "contestantJid": "JIDUSERKpGkNvfuAscUDNiciBhl"
+          },
+          {
+            "contestantUsername": "Joel Gunawan",
+            "contestantRating": 0,
+            "totalScores": 320,
+            "lastAffectingPenalty": 8003821,
+            "scores": [null, 20, 100, null, null, null, 100, 100],
+            "rank": 12,
+            "contestantJid": "JIDUSERo8MXQ8cqaLGC0BG4RhKm"
+          },
+          {
+            "contestantUsername": "AZKA RIZQULLAH RAMADHANI",
+            "contestantRating": 0,
+            "totalScores": 305,
+            "lastAffectingPenalty": 4485606,
+            "scores": [null, 100, 0, 5, null, null, 100, 100],
+            "rank": 13,
+            "contestantJid": "JIDUSERwXxyXIP4uaJfE6J5DlSS"
+          },
+          {
+            "contestantUsername": "Ahmad Wasis Shofiyulloh",
+            "contestantRating": 0,
+            "totalScores": 305,
+            "lastAffectingPenalty": 9384110,
+            "scores": [null, 100, 0, 5, null, 0, 100, 100],
+            "rank": 13,
+            "contestantJid": "JIDUSERUuOijC5IHWn5pV0ujWId"
+          },
+          {
+            "contestantUsername": "Gabriella",
+            "contestantRating": 0,
+            "totalScores": 285,
+            "lastAffectingPenalty": 10190286,
+            "scores": [null, 20, 0, 30, null, 35, 100, 100],
+            "rank": 15,
+            "contestantJid": "JIDUSERzG6pJCKCo2GmphdEkiXZ"
+          },
+          {
+            "contestantUsername": "Salvatore Unedo",
+            "contestantRating": 0,
+            "totalScores": 280,
+            "lastAffectingPenalty": 10345865,
+            "scores": [null, 0, 50, 30, null, null, 100, 100],
+            "rank": 16,
+            "contestantJid": "JIDUSERVg8mnWb1gKxjL4WRhUBH"
+          },
+          {
+            "contestantUsername": "Yose Yehezkiel Maranata",
+            "contestantRating": 0,
+            "totalScores": 265,
+            "lastAffectingPenalty": 9547234,
+            "scores": [0, null, 50, 5, 0, 10, 100, 100],
+            "rank": 17,
+            "contestantJid": "JIDUSERPpjoWKnkwvaiP9AhwEsP"
+          },
+          {
+            "contestantUsername": "Gunadi Gani",
+            "contestantRating": 0,
+            "totalScores": 260,
+            "lastAffectingPenalty": 9522531,
+            "scores": [null, 0, 30, 30, null, null, 100, 100],
+            "rank": 18,
+            "contestantJid": "JIDUSER02svBGbLQYwDsW2qOrAI"
+          },
+          {
+            "contestantUsername": "Muhammad Aqila",
+            "contestantRating": 0,
+            "totalScores": 255,
+            "lastAffectingPenalty": 7249805,
+            "scores": [null, 20, 30, 5, null, null, 100, 100],
+            "rank": 19,
+            "contestantJid": "JIDUSERzRQsKSoblfhuUYYAPWQN"
+          },
+          {
+            "contestantUsername": "Yomori Achiza",
+            "contestantRating": 0,
+            "totalScores": 255,
+            "lastAffectingPenalty": 8640750,
+            "scores": [null, 20, 30, 5, null, null, 100, 100],
+            "rank": 19,
+            "contestantJid": "JIDUSER3AXMRUJEVvAfHcJrIzFW"
+          },
+          {
+            "contestantUsername": "Raihan Akbar",
+            "contestantRating": 0,
+            "totalScores": 255,
+            "lastAffectingPenalty": 8788815,
+            "scores": [null, 50, 0, 5, null, 0, 100, 100],
+            "rank": 19,
+            "contestantJid": "JIDUSERfSi9veQgHOT0cdPBPxMS"
+          },
+          {
+            "contestantUsername": "Annabel Kayla Talitha",
+            "contestantRating": 0,
+            "totalScores": 250,
+            "lastAffectingPenalty": 6655826,
+            "scores": [null, 20, null, 30, null, null, 100, 100],
+            "rank": 22,
+            "contestantJid": "JIDUSERSsWsVvkSs6SeX3eR5vfz"
+          },
+          {
+            "contestantUsername": "Roberto Eugenio Sugiarto",
+            "contestantRating": 0,
+            "totalScores": 250,
+            "lastAffectingPenalty": 7744797,
+            "scores": [null, 20, 0, 30, null, null, 100, 100],
+            "rank": 22,
+            "contestantJid": "JIDUSERLaqF8adc7wZjPUXYGbQ1"
+          },
+          {
+            "contestantUsername": "Galih Nur Rizqy",
+            "contestantRating": 0,
+            "totalScores": 250,
+            "lastAffectingPenalty": 8045976,
+            "scores": [null, 20, 0, 30, null, null, 100, 100],
+            "rank": 22,
+            "contestantJid": "JIDUSERzknVI1k5WS1F9c5SKOGI"
+          },
+          {
+            "contestantUsername": "Muhammad Naufal Muzaki",
+            "contestantRating": 0,
+            "totalScores": 250,
+            "lastAffectingPenalty": 9301914,
+            "scores": [null, 20, null, 30, null, null, 100, 100],
+            "rank": 22,
+            "contestantJid": "JIDUSER9yYFLrZlbhtFIVjrAJYg"
+          },
+          {
+            "contestantUsername": "Kenneth Feivel Johannsen Hosannah",
+            "contestantRating": 0,
+            "totalScores": 250,
+            "lastAffectingPenalty": 10033157,
+            "scores": [null, 20, 30, null, null, null, 100, 100],
+            "rank": 22,
+            "contestantJid": "JIDUSERhpKi0jcchPgzqzSDreoI"
+          },
+          {
+            "contestantUsername": "Takeshi Henderson Herman",
+            "contestantRating": 0,
+            "totalScores": 250,
+            "lastAffectingPenalty": 10771399,
+            "scores": [null, 20, 0, 30, null, null, 100, 100],
+            "rank": 22,
+            "contestantJid": "JIDUSERpUzr7TziPU0igpPrb9ic"
+          },
+          {
+            "contestantUsername": "Daffa Rayhan Ananda",
+            "contestantRating": 0,
+            "totalScores": 245,
+            "lastAffectingPenalty": 10499805,
+            "scores": [null, 20, 20, 5, null, null, 100, 100],
+            "rank": 28,
+            "contestantJid": "JIDUSERnGc47DyhqySkERP1dLzM"
+          },
+          {
+            "contestantUsername": "Muhammad Buyung Saloka",
+            "contestantRating": 0,
+            "totalScores": 230,
+            "lastAffectingPenalty": 9355840,
+            "scores": [null, 0, null, 30, null, null, 100, 100],
+            "rank": 29,
+            "contestantJid": "JIDUSERCYkEMl8aPuks8UVhQtUz"
+          },
+          {
+            "contestantUsername": "Devito Sanjaya Putra",
+            "contestantRating": 0,
+            "totalScores": 230,
+            "lastAffectingPenalty": 9864736,
+            "scores": [null, 0, 0, 30, null, null, 100, 100],
+            "rank": 29,
+            "contestantJid": "JIDUSERWmPZdmwok45KhCZOuC3a"
+          },
+          {
+            "contestantUsername": "Jefferson Dermawan",
+            "contestantRating": 0,
+            "totalScores": 225,
+            "lastAffectingPenalty": 4565260,
+            "scores": [null, 20, 0, 5, null, null, 100, 100],
+            "rank": 31,
+            "contestantJid": "JIDUSER5ilSFKOswfxR8tHXVI3Q"
+          },
+          {
+            "contestantUsername": "Ackhava Adam Malonda",
+            "contestantRating": 0,
+            "totalScores": 225,
+            "lastAffectingPenalty": 5412539,
+            "scores": [null, 20, null, 5, null, null, 100, 100],
+            "rank": 31,
+            "contestantJid": "JIDUSEROeRkcraneC09aDvpYQl6"
+          },
+          {
+            "contestantUsername": "Christopher Jason Sidharta",
+            "contestantRating": 0,
+            "totalScores": 225,
+            "lastAffectingPenalty": 6804376,
+            "scores": [null, 20, 0, 5, null, null, 100, 100],
+            "rank": 31,
+            "contestantJid": "JIDUSERXWkbA6RzrZobbPXJ873V"
+          },
+          {
+            "contestantUsername": "Leontina Maydeline Davidson",
+            "contestantRating": 0,
+            "totalScores": 225,
+            "lastAffectingPenalty": 8407267,
+            "scores": [null, 20, 0, 5, null, null, 100, 100],
+            "rank": 31,
+            "contestantJid": "JIDUSERlzdtbZ5r0diWBGnOkSCB"
+          },
+          {
+            "contestantUsername": "Dean Agha Koeswantoro",
+            "contestantRating": 0,
+            "totalScores": 225,
+            "lastAffectingPenalty": 9357438,
+            "scores": [null, 20, null, 5, 0, null, 100, 100],
+            "rank": 31,
+            "contestantJid": "JIDUSERk6fpf89Ildl0b4ZA83XB"
+          },
+          {
+            "contestantUsername": "Alden Budiman",
+            "contestantRating": 0,
+            "totalScores": 225,
+            "lastAffectingPenalty": 9780057,
+            "scores": [null, 20, null, 5, null, null, 100, 100],
+            "rank": 31,
+            "contestantJid": "JIDUSERdese9wgduvlf6g7Z830G"
+          },
+          {
+            "contestantUsername": "Clement Kevin Tanadi",
+            "contestantRating": 0,
+            "totalScores": 220,
+            "lastAffectingPenalty": 9495952,
+            "scores": [null, 20, 0, null, null, null, 100, 100],
+            "rank": 37,
+            "contestantJid": "JIDUSER19uwcGfFGFN7B7pNeXnH"
+          },
+          {
+            "contestantUsername": "Andrew Wallace",
+            "contestantRating": 0,
+            "totalScores": 205,
+            "lastAffectingPenalty": 7077161,
+            "scores": [null, 0, 0, 5, null, null, 100, 100],
+            "rank": 38,
+            "contestantJid": "JIDUSER9E91qoXehTgzIX1k4rwE"
+          },
+          {
+            "contestantUsername": "Fathan Mubina",
+            "contestantRating": 0,
+            "totalScores": 205,
+            "lastAffectingPenalty": 8194531,
+            "scores": [null, null, 0, 5, null, null, 100, 100],
+            "rank": 38,
+            "contestantJid": "JIDUSERCtyAZcdrDZ2bSV6ZtMNH"
+          },
+          {
+            "contestantUsername": "Jansen Ken Pegrasio",
+            "contestantRating": 0,
+            "totalScores": 200,
+            "lastAffectingPenalty": 6885180,
+            "scores": [null, null, 0, null, null, null, 100, 100],
+            "rank": 40,
+            "contestantJid": "JIDUSERGrlnrtm6a4B1vnGr0UOi"
+          },
+          {
+            "contestantUsername": "Mochammad Nadhif Arfa Rayyan",
+            "contestantRating": 0,
+            "totalScores": 200,
+            "lastAffectingPenalty": 8096925,
+            "scores": [null, null, 0, null, null, null, 100, 100],
+            "rank": 40,
+            "contestantJid": "JIDUSERJo8GgUtMTcWZsSMSxuGK"
+          },
+          {
+            "contestantUsername": "Audrey Cherilyn Ilham",
+            "contestantRating": 0,
+            "totalScores": 200,
+            "lastAffectingPenalty": 8461975,
+            "scores": [null, 0, null, null, null, null, 100, 100],
+            "rank": 40,
+            "contestantJid": "JIDUSERD61ElG5X1SHh8PHbSMlK"
+          },
+          {
+            "contestantUsername": "M.Syauqyi Habibi",
+            "contestantRating": 0,
+            "totalScores": 175,
+            "lastAffectingPenalty": 8533280,
+            "scores": [null, 20, 0, 5, null, null, 100, 50],
+            "rank": 43,
+            "contestantJid": "JIDUSERW2HgeB0V93BNDlomfvl2"
+          },
+          {
+            "contestantUsername": "Rayyan Aqsha Raditya",
+            "contestantRating": 0,
+            "totalScores": 170,
+            "lastAffectingPenalty": 2610230,
+            "scores": [null, 20, null, null, null, null, 100, 50],
+            "rank": 44,
+            "contestantJid": "JIDUSERMhlxZb4ih5l92MhcQiga"
+          },
+          {
+            "contestantUsername": "Muhammad Akhyar Fahrurrozi",
+            "contestantRating": 0,
+            "totalScores": 170,
+            "lastAffectingPenalty": 3515412,
+            "scores": [null, 20, 0, 0, null, null, 100, 50],
+            "rank": 44,
+            "contestantJid": "JIDUSERY3lqYGNkCw1IYQVWWZ2m"
+          },
+          {
+            "contestantUsername": "Najwan Aribena Pratama",
+            "contestantRating": 0,
+            "totalScores": 170,
+            "lastAffectingPenalty": 6611790,
+            "scores": [null, 20, null, null, null, null, 100, 50],
+            "rank": 44,
+            "contestantJid": "JIDUSERBszygYTCbJVlXoFbYJp6"
+          },
+          {
+            "contestantUsername": "Jonathan Irvin Susanto",
+            "contestantRating": 0,
+            "totalScores": 170,
+            "lastAffectingPenalty": 7522711,
+            "scores": [null, 20, 0, 0, null, null, 100, 50],
+            "rank": 44,
+            "contestantJid": "JIDUSERDhguuxSDLWdgyegqllpV"
+          },
+          {
+            "contestantUsername": "Faishal Falih",
+            "contestantRating": 0,
+            "totalScores": 170,
+            "lastAffectingPenalty": 7810567,
+            "scores": [null, 20, null, null, null, null, 100, 50],
+            "rank": 44,
+            "contestantJid": "JIDUSERzvDlKWhYrddLb6u5Errv"
+          },
+          {
+            "contestantUsername": "Muhammad Lanang Z. H.",
+            "contestantRating": 0,
+            "totalScores": 155,
+            "lastAffectingPenalty": 7913531,
+            "scores": [null, 0, 0, 5, null, null, 100, 50],
+            "rank": 49,
+            "contestantJid": "JIDUSERDPnZJVNVOLdL44Y0get6"
+          },
+          {
+            "contestantUsername": "Azzam Harzuqi",
+            "contestantRating": 0,
+            "totalScores": 155,
+            "lastAffectingPenalty": 9097774,
+            "scores": [null, 0, null, 5, null, null, 100, 50],
+            "rank": 49,
+            "contestantJid": "JIDUSERXsmn7XNXSN6r3hXCiykQ"
+          },
+          {
+            "contestantUsername": "Giannina Indah Aini",
+            "contestantRating": 0,
+            "totalScores": 150,
+            "lastAffectingPenalty": 5387131,
+            "scores": [null, null, null, 0, null, null, 100, 50],
+            "rank": 51,
+            "contestantJid": "JIDUSEROy4ABktCfrJU9oHNbYow"
+          },
+          {
+            "contestantUsername": "Muhammad Haidar",
+            "contestantRating": 0,
+            "totalScores": 130,
+            "lastAffectingPenalty": 2016452,
+            "scores": [null, 0, null, 30, null, null, 100, null],
+            "rank": 52,
+            "contestantJid": "JIDUSEReIxyYAVOFAfePkeMJiDH"
+          },
+          {
+            "contestantUsername": "Kadek Galih Mahotama",
+            "contestantRating": 0,
+            "totalScores": 130,
+            "lastAffectingPenalty": 3814625,
+            "scores": [null, null, 0, 30, null, null, 100, null],
+            "rank": 52,
+            "contestantJid": "JIDUSER4CEVEvEXbz0mr5j6JAxo"
+          },
+          {
+            "contestantUsername": "Riki Adityawan",
+            "contestantRating": 0,
+            "totalScores": 130,
+            "lastAffectingPenalty": 5267405,
+            "scores": [null, null, 0, 30, null, null, 100, 0],
+            "rank": 52,
+            "contestantJid": "JIDUSERVmIbgOHoVa4BscMMZH3a"
+          },
+          {
+            "contestantUsername": "Syauqi Faza",
+            "contestantRating": 0,
+            "totalScores": 130,
+            "lastAffectingPenalty": 7436647,
+            "scores": [null, null, null, 30, null, 0, 100, null],
+            "rank": 52,
+            "contestantJid": "JIDUSERXO1J4B5kW6vXdzY4kf3D"
+          },
+          {
+            "contestantUsername": "William Notowibowo",
+            "contestantRating": 0,
+            "totalScores": 130,
+            "lastAffectingPenalty": 9828556,
+            "scores": [null, null, null, 30, null, 0, 100, 0],
+            "rank": 52,
+            "contestantJid": "JIDUSERIyPyh2Rkyg97aicoDzSw"
+          },
+          {
+            "contestantUsername": "Muhammad Fatih Irkham Mauludi",
+            "contestantRating": 0,
+            "totalScores": 125,
+            "lastAffectingPenalty": 4792232,
+            "scores": [null, 20, 0, 5, null, null, 100, 0],
+            "rank": 57,
+            "contestantJid": "JIDUSERwSIgiyzh6NkwdpkXGxjj"
+          },
+          {
+            "contestantUsername": "Zalfa Nafila Khairunnisa",
+            "contestantRating": 0,
+            "totalScores": 125,
+            "lastAffectingPenalty": 8001011,
+            "scores": [null, 20, null, 5, null, null, 100, null],
+            "rank": 57,
+            "contestantJid": "JIDUSERT974MtFmpRjJVgTfUArG"
+          },
+          {
+            "contestantUsername": "Yazid Aqila Haikal",
+            "contestantRating": 0,
+            "totalScores": 125,
+            "lastAffectingPenalty": 8599132,
+            "scores": [null, 20, null, 5, null, 0, 100, 0],
+            "rank": 57,
+            "contestantJid": "JIDUSERwI1XtmbmELsAIZh46Uzd"
+          },
+          {
+            "contestantUsername": "Muhammad hariz albaari",
+            "contestantRating": 0,
+            "totalScores": 120,
+            "lastAffectingPenalty": 2774266,
+            "scores": [null, 20, 0, 0, null, 0, 100, null],
+            "rank": 60,
+            "contestantJid": "JIDUSERjHyhDUDRwETT1tLcdlYa"
+          },
+          {
+            "contestantUsername": "Kevin Sutario",
+            "contestantRating": 0,
+            "totalScores": 120,
+            "lastAffectingPenalty": 3233222,
+            "scores": [null, 20, null, null, null, null, 100, null],
+            "rank": 60,
+            "contestantJid": "JIDUSEROZRkGoyaW1qnMj2ICOgl"
+          },
+          {
+            "contestantUsername": "Nathanael Christian Tjandra",
+            "contestantRating": 0,
+            "totalScores": 120,
+            "lastAffectingPenalty": 3718507,
+            "scores": [null, 20, null, 0, null, null, 100, null],
+            "rank": 60,
+            "contestantJid": "JIDUSERxBtvwC6FCrEiEXT2hhEB"
+          },
+          {
+            "contestantUsername": "Rozan Laudzai",
+            "contestantRating": 0,
+            "totalScores": 120,
+            "lastAffectingPenalty": 3807530,
+            "scores": [null, 20, null, null, null, null, 100, 0],
+            "rank": 60,
+            "contestantJid": "JIDUSERlT7aQklQw5OLuKP9mokx"
+          },
+          {
+            "contestantUsername": "Anisa Aulia Alhaqi",
+            "contestantRating": 0,
+            "totalScores": 120,
+            "lastAffectingPenalty": 5250448,
+            "scores": [null, 20, null, 0, null, null, 100, null],
+            "rank": 60,
+            "contestantJid": "JIDUSERa1qOegOmUSEFPJLSjAFf"
+          },
+          {
+            "contestantUsername": "Muhammad Brahmana Priambudi",
+            "contestantRating": 0,
+            "totalScores": 120,
+            "lastAffectingPenalty": 6357580,
+            "scores": [0, 20, null, null, null, null, 100, null],
+            "rank": 60,
+            "contestantJid": "JIDUSER7bQLEHPn7L3ITfdreKN3"
+          },
+          {
+            "contestantUsername": "Vincent Kristian Waluyo",
+            "contestantRating": 0,
+            "totalScores": 120,
+            "lastAffectingPenalty": 7068042,
+            "scores": [null, 20, 0, null, null, null, 100, 0],
+            "rank": 60,
+            "contestantJid": "JIDUSERy70XKCj0R4AEBhq6D5rt"
+          },
+          {
+            "contestantUsername": "Adiel Rum",
+            "contestantRating": 0,
+            "totalScores": 105,
+            "lastAffectingPenalty": 2436178,
+            "scores": [null, null, null, 5, null, null, 100, null],
+            "rank": 67,
+            "contestantJid": "JIDUSERH5Br65juKMLC7XguJLtE"
+          },
+          {
+            "contestantUsername": "Gregory Edward Suryawan",
+            "contestantRating": 0,
+            "totalScores": 105,
+            "lastAffectingPenalty": 4511453,
+            "scores": [null, null, null, 5, null, null, 100, null],
+            "rank": 67,
+            "contestantJid": "JIDUSERCfbFchPhHIXK0Z3PZoQ7"
+          },
+          {
+            "contestantUsername": "Banu Chrisnadi Yohanes",
+            "contestantRating": 0,
+            "totalScores": 105,
+            "lastAffectingPenalty": 5837013,
+            "scores": [null, null, 0, 5, null, null, 100, null],
+            "rank": 67,
+            "contestantJid": "JIDUSERDGgTQpBeHthnSjALqGP0"
+          },
+          {
+            "contestantUsername": "Siti Shofi Nadhifa",
+            "contestantRating": 0,
+            "totalScores": 105,
+            "lastAffectingPenalty": 6172220,
+            "scores": [null, 0, 0, 5, null, null, 100, null],
+            "rank": 67,
+            "contestantJid": "JIDUSERwJZGfquHOcThvYJDgtgd"
+          },
+          {
+            "contestantUsername": "Faris Huda",
+            "contestantRating": 0,
+            "totalScores": 105,
+            "lastAffectingPenalty": 6804531,
+            "scores": [null, null, null, 5, null, null, 100, null],
+            "rank": 67,
+            "contestantJid": "JIDUSERgfpM5pN7QCVeV2UjqTr7"
+          },
+          {
+            "contestantUsername": "Muhammad Raza Anugrah",
+            "contestantRating": 0,
+            "totalScores": 105,
+            "lastAffectingPenalty": 7361862,
+            "scores": [null, 0, null, 5, null, 0, 100, null],
+            "rank": 67,
+            "contestantJid": "JIDUSERQzZWGXquM3KJpmycDpj3"
+          },
+          {
+            "contestantUsername": "Kimberly Prijadi",
+            "contestantRating": 0,
+            "totalScores": 105,
+            "lastAffectingPenalty": 9570839,
+            "scores": [null, null, 0, 5, null, null, 100, null],
+            "rank": 67,
+            "contestantJid": "JIDUSERUKE5s7GrbqAOBAtRCZs7"
+          },
+          {
+            "contestantUsername": "Sayed Shahibbul Aulia",
+            "contestantRating": 0,
+            "totalScores": 105,
+            "lastAffectingPenalty": 10519418,
+            "scores": [null, null, null, 5, null, null, 100, null],
+            "rank": 67,
+            "contestantJid": "JIDUSERnC0H0h6aEfIpHei6WsdF"
+          },
+          {
+            "contestantUsername": "Nindya Pramana",
+            "contestantRating": 0,
+            "totalScores": 100,
+            "lastAffectingPenalty": 1354394,
+            "scores": [null, 0, null, null, null, null, 100, null],
+            "rank": 75,
+            "contestantJid": "JIDUSERF4SGcHdbLe3o7tIek3U4"
+          },
+          {
+            "contestantUsername": "Mohammad Aryasatya Arifien",
+            "contestantRating": 0,
+            "totalScores": 100,
+            "lastAffectingPenalty": 2979365,
+            "scores": [null, null, null, 0, null, null, 100, null],
+            "rank": 75,
+            "contestantJid": "JIDUSER7FjPbVZBpMvfzAPbFQqn"
+          },
+          {
+            "contestantUsername": "Paundra Pujo Darmawan",
+            "contestantRating": 0,
+            "totalScores": 100,
+            "lastAffectingPenalty": 2995598,
+            "scores": [null, null, null, null, null, null, 100, null],
+            "rank": 75,
+            "contestantJid": "JIDUSERzwUD29L9YeMOh66JdlpM"
+          },
+          {
+            "contestantUsername": "Nugraha Billy Viandy",
+            "contestantRating": 0,
+            "totalScores": 100,
+            "lastAffectingPenalty": 4421181,
+            "scores": [null, null, null, null, null, null, 100, null],
+            "rank": 75,
+            "contestantJid": "JIDUSERRIZUu0A45N8ruFc32foO"
+          },
+          {
+            "contestantUsername": "Adrian Nathanael",
+            "contestantRating": 0,
+            "totalScores": 100,
+            "lastAffectingPenalty": 4597445,
+            "scores": [null, null, null, null, null, null, 100, null],
+            "rank": 75,
+            "contestantJid": "JIDUSERUOHtDi9HcvvmLzaZ1I5K"
+          },
+          {
+            "contestantUsername": "Gilbran Mahdavika R",
+            "contestantRating": 0,
+            "totalScores": 100,
+            "lastAffectingPenalty": 4953544,
+            "scores": [null, null, 0, 0, null, null, 100, null],
+            "rank": 75,
+            "contestantJid": "JIDUSERTlboL3d316f6IGo4Hzq4"
+          },
+          {
+            "contestantUsername": "Sani Muhammad Daveisha Ali",
+            "contestantRating": 0,
+            "totalScores": 100,
+            "lastAffectingPenalty": 7227621,
+            "scores": [null, null, 0, null, null, null, 100, 0],
+            "rank": 75,
+            "contestantJid": "JIDUSERa3ZsiJE5FWFkvOWwGeYr"
+          },
+          {
+            "contestantUsername": "Athalariq Rifqi Rizqoni",
+            "contestantRating": 0,
+            "totalScores": 100,
+            "lastAffectingPenalty": 7357412,
+            "scores": [null, 0, null, null, null, null, 100, null],
+            "rank": 75,
+            "contestantJid": "JIDUSERp6BUtcwhxwD1p52Rmeq9"
+          },
+          {
+            "contestantUsername": "Egi Kurniawan",
+            "contestantRating": 0,
+            "totalScores": 100,
+            "lastAffectingPenalty": 8037349,
+            "scores": [null, null, null, null, null, null, 100, null],
+            "rank": 75,
+            "contestantJid": "JIDUSER3GIyHEm0Pmy4hDFiz98U"
+          },
+          {
+            "contestantUsername": "Anggara Roshandi Putra",
+            "contestantRating": 0,
+            "totalScores": 50,
+            "lastAffectingPenalty": 4257817,
+            "scores": [null, 0, null, 0, null, null, 0, 50],
+            "rank": 84,
+            "contestantJid": "JIDUSERwbec49s0uuz4ZvFu5xdM"
+          },
+          {
+            "contestantUsername": "Kamelia Rizkiana",
+            "contestantRating": 0,
+            "totalScores": 50,
+            "lastAffectingPenalty": 7000682,
+            "scores": [null, null, null, null, null, null, 0, 50],
+            "rank": 84,
+            "contestantJid": "JIDUSERMd1Iec2ZweYfaa81YVd8"
+          },
+          {
+            "contestantUsername": "Muhammad Fikri Ramadhan",
+            "contestantRating": 0,
+            "totalScores": 25,
+            "lastAffectingPenalty": 4587273,
+            "scores": [null, 0, 0, 5, null, null, 20, null],
+            "rank": 86,
+            "contestantJid": "JIDUSERccvxo3lnbRHf5HBd6csW"
+          },
+          {
+            "contestantUsername": "Christopher Adi Wijaya",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 2337824,
+            "scores": [null, null, null, 0, null, null, 20, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERKJGGd6TQ3r4xAhtjg7Po"
+          },
+          {
+            "contestantUsername": "Muhammad Fazli Azmi Verdiansyah",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 2387697,
+            "scores": [null, 20, null, 0, null, null, 0, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERhhzQSuD4owO6ZkOFXYO9"
+          },
+          {
+            "contestantUsername": "Aamira Kalila E.H",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 2517754,
+            "scores": [null, 20, null, null, null, null, 0, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERD4cAuUhVk6Ce9ppnj8U9"
+          },
+          {
+            "contestantUsername": "Naufal Syahputra",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 2739788,
+            "scores": [null, 20, null, 0, null, null, 0, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERqaF1AhPB1uDGMUk5Y0IE"
+          },
+          {
+            "contestantUsername": "Moch. Mizan Ghodafail",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 3343005,
+            "scores": [null, null, null, null, null, null, 20, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERsVGIfQS6q8UBUMnRoWOe"
+          },
+          {
+            "contestantUsername": "Airin Nijananda",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 4439827,
+            "scores": [null, 20, null, null, null, null, null, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERbpOYhfiNwNYTBLvRyH1y"
+          },
+          {
+            "contestantUsername": "Tjia Gleen Ryan",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 4440826,
+            "scores": [0, 20, 0, null, null, null, 0, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERigV87nRPA4npAHdLrDz2"
+          },
+          {
+            "contestantUsername": "Marvin Alvianus Rainhard",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 5261817,
+            "scores": [null, 20, null, null, null, null, 0, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERXB8puGwmOz8cQg8H6UIG"
+          },
+          {
+            "contestantUsername": "Mikhael Kevin Narendra Jayadharma",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 6991881,
+            "scores": [null, 20, null, null, null, null, null, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERFHxGLfBedrJb0JEirpHx"
+          },
+          {
+            "contestantUsername": "Elang Pandi P",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 7956178,
+            "scores": [null, 20, null, null, null, null, null, null],
+            "rank": 87,
+            "contestantJid": "JIDUSER1VwvlQUxp010ljanlPAq"
+          },
+          {
+            "contestantUsername": "Naila Atifa Asrif",
+            "contestantRating": 0,
+            "totalScores": 20,
+            "lastAffectingPenalty": 9006569,
+            "scores": [null, null, 0, null, null, null, 20, null],
+            "rank": 87,
+            "contestantJid": "JIDUSERihVZFgoBSckdZcgmlFZ3"
+          },
+          {
+            "contestantUsername": "rakha hanif lutfirrahman",
+            "contestantRating": 0,
+            "totalScores": 5,
+            "lastAffectingPenalty": 8933547,
+            "scores": [null, null, null, 5, null, null, null, null],
+            "rank": 98,
+            "contestantJid": "JIDUSERZK1W3gejBaBeUej6hu8K"
+          },
+          {
+            "contestantUsername": "Daniel Liman",
+            "contestantRating": 0,
+            "totalScores": 5,
+            "lastAffectingPenalty": 10500063,
+            "scores": [null, null, 0, 5, null, null, 0, null],
+            "rank": 98,
+            "contestantJid": "JIDUSER3J2Os6cJXjs3ClVkwCeV"
+          },
+          {
+            "contestantUsername": "ANANDA LUTHFIAH FEBIANI",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [0, 0, 0, 0, 0, 0, 0, 0],
+            "rank": 100,
+            "contestantJid": "JIDUSEROwUuegqiJajarPA1fX8G"
+          },
+          {
+            "contestantUsername": "Ghaly Abrarian Putra",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [0, 0, 0, 0, 0, 0, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERANSdz5S5xnSpvi1VOmQ7"
+          },
+          {
+            "contestantUsername": "Grendy Aditya Pangestu",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [0, 0, 0, 0, 0, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERASpX93UdcCdsnOqzCJQN"
+          },
+          {
+            "contestantUsername": "Lalu Nofal Afif Arizal",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [0, 0, 0, 0, 0, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERMurUDbHy9VPqkIPbmHdX"
+          },
+          {
+            "contestantUsername": "Luigi Emiliandra",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, 0, null, 0, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSEROtQB6kjTEM6BPayLGvLZ"
+          },
+          {
+            "contestantUsername": "Andika Rizky Noval Nugraha",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, 0, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERUwvqay1hvGqx4rrG4JyI"
+          },
+          {
+            "contestantUsername": "Chandra Tritaqwa Ramadhan",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, 0, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERAEGLDkiKewqmKmstm7Ad"
+          },
+          {
+            "contestantUsername": "Abdulrahman Toha",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, 0, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERqKFrfnI7KaQo6u7zfGii"
+          },
+          {
+            "contestantUsername": "Alvin Ahmad Kurniawan",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, 0],
+            "rank": 100,
+            "contestantJid": "JIDUSERlbVCOzSRYX3th4F4RnEv"
+          },
+          {
+            "contestantUsername": "Bima Yoga Samega",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSER4MjaSCRDD7Py5452DlYK"
+          },
+          {
+            "contestantUsername": "Dany Irfansyah",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERUDQPgjHxqdOh0uctUDYQ"
+          },
+          {
+            "contestantUsername": "Djoko Haryo Baskoro",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSEReUpqEoVpCUtMbnknHVmo"
+          },
+          {
+            "contestantUsername": "M.Hikari Reiziq Rakhmadinta",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSER5GWk8kgH5JHuHRdfMlBI"
+          },
+          {
+            "contestantUsername": "Muhammad Afrizan Rasya",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERdKhnvdtYGTdU3FEwcBwx"
+          },
+          {
+            "contestantUsername": "Muhammad Alvito Devanova",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERyYnVgL9J4GKCVNkEkjOE"
+          },
+          {
+            "contestantUsername": "Nedia Cinta",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERqlHfZdfsKGZSmZuMAlSR"
+          },
+          {
+            "contestantUsername": "Reditya Imanuel Yuwono",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERAsNbXD76PVwgCKYUpZfH"
+          },
+          {
+            "contestantUsername": "Achmad Alvian Prasetio",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERErXaveBsieCSGBrTS5Gw"
+          },
+          {
+            "contestantUsername": "Ahmad Daffa Aminuddin Siregar",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERDbonj5natGsT1yBJgzge"
+          },
+          {
+            "contestantUsername": "Alexander Allan",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERB5ajDCDJHFTAwsLjoYvv"
+          },
+          {
+            "contestantUsername": "Alifah Nur Azizah",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSEReZLugKf5gCEoeRlDtMNz"
+          },
+          {
+            "contestantUsername": "Arlando A'la Putra Raharjo",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERllQEd6vIw9u4cwmJEGTW"
+          },
+          {
+            "contestantUsername": "Christopher Octave Sinjaya",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERvuaC0mdz92qxlbHDgyOJ"
+          },
+          {
+            "contestantUsername": "Hanif Aqil Janardana",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, 0, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERgBW8iGVOEqsjozuDUSGu"
+          },
+          {
+            "contestantUsername": "Lalu Gilang Wirapati",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERqWQkU9jqUbS6vpDLSSxe"
+          },
+          {
+            "contestantUsername": "M Dimas Ardian Ramadan",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERhx46cY0iqPZmb8p4OrIh"
+          },
+          {
+            "contestantUsername": "MAULANA RIYAN SAPUTRA",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, 0, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERIOl2EDMTctfZACcJY0qB"
+          },
+          {
+            "contestantUsername": "Matthew marcellino",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERzK0OKKsHO0YLTLOpeiN2"
+          },
+          {
+            "contestantUsername": "Moh. Wildan Risqi Maulidi",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, 0, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSER3VGVocv52RCXeJFoLpti"
+          },
+          {
+            "contestantUsername": "Muhammad Naufal Ammr Dzakwan",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERqaxMI7DuZHRhvWRLPSvK"
+          },
+          {
+            "contestantUsername": "Muhammad Zuhair Zuhdi",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERlmLCM4EOBrDtwV2uXa1w"
+          },
+          {
+            "contestantUsername": "Nasywa Cettasyafiq",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERA3R7MjoWmJpd0z0tO1A8"
+          },
+          {
+            "contestantUsername": "Rivaldo Widya Albuchori",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERCpfnC3PBxl8Cxnrf3C6m"
+          },
+          {
+            "contestantUsername": "Tegar Ramdhani",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERUFJfsNRS2lUkIGZ0TyGU"
+          },
+          {
+            "contestantUsername": "Timothy Grace Ariel Putranda",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERZhLdvcqQHIakegYeV1dx"
+          },
+          {
+            "contestantUsername": "Tri Jannatun Mardiah",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERejOBGFoc3X9Ok7h6RXtL"
+          },
+          {
+            "contestantUsername": "Zaranggi Arifin",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, 0, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERHcNjqpuC4NKPGNYjPm64"
+          },
+          {
+            "contestantUsername": "AHMAD FAHRESY",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERw8bH5SD9KG5BdFfTsk9b"
+          },
+          {
+            "contestantUsername": "ARDILA CAHYA RACHMADANI",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERBwHaiqAJmmZkafdtjNBW"
+          },
+          {
+            "contestantUsername": "Abdul Jaber Syukur",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERHvkJc7hhy7J1POtJfulj"
+          },
+          {
+            "contestantUsername": "Achmad Javier Eka Caraka",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSER6tQNBPOJeubCTWhx4jXI"
+          },
+          {
+            "contestantUsername": "Achmad Verriel Irawan Hanafiano",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERsl4W36ApbsIweWbUqdC8"
+          },
+          {
+            "contestantUsername": "Ahmad Hilalul Fadli",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERHPYoxjIwvhG1XMnf1P0e"
+          },
+          {
+            "contestantUsername": "Ahmad Wildan Fawwaz",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSER6P8IURAzowyTcz8RgUsK"
+          },
+          {
+            "contestantUsername": "Aldi Anugrah Khalik",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERTbsWkypwf0CxlxXDHoXZ"
+          },
+          {
+            "contestantUsername": "Alvin Ilham Hidayatullah",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERVwOsCxHpRHvbr25p5qsh"
+          },
+          {
+            "contestantUsername": "Arvind Dharma Dwiadmodjo",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERc4RjHZy03d18zEEuQdxk"
+          },
+          {
+            "contestantUsername": "Aziz Adi Pramana",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERqkCNgFOywTYsvf3tjgoR"
+          },
+          {
+            "contestantUsername": "Davin Pandya Wala Khotob",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERXvHoAcZpOTZx5JV31hxH"
+          },
+          {
+            "contestantUsername": "Endra Anugrah Apriyanto",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERfq7r3n6tQZhm1fr9oNTg"
+          },
+          {
+            "contestantUsername": "Evan Putra Pratama",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERWKK8ZrpyGsK3bJfWE3UL"
+          },
+          {
+            "contestantUsername": "Fauzan Maulandhika",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERwMewQCTOvLwFuboZ8cRb"
+          },
+          {
+            "contestantUsername": "Ferrel Himawan Handoyo",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERZNxqZAO2u3ARwARfclfF"
+          },
+          {
+            "contestantUsername": "Fiorenza Adelia Nalle",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERAqg6PagUG5JdDLYRkrhf"
+          },
+          {
+            "contestantUsername": "Firza Mushermansyah",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERKXl7g0xXz4Di8uMS3Y5n"
+          },
+          {
+            "contestantUsername": "Franklin Filbert Irwan",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERNgXOKPfeem1FBYrXgD5N"
+          },
+          {
+            "contestantUsername": "ILMAN NAFI'AN",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERfT9PTpIXfSFj2RLcelr8"
+          },
+          {
+            "contestantUsername": "Kayna Mufidah",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERCxHV5y2JYPIjomxhjdt7"
+          },
+          {
+            "contestantUsername": "Kenneth Go",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERCDZwLm5oRVDYNGej85T4"
+          },
+          {
+            "contestantUsername": "Kevin Nataniel Sutopo",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERqo3sMd7adiHJlga9k302"
+          },
+          {
+            "contestantUsername": "M. Adib Bakhtiyar A",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERRFRfSnqWXzcjsS0dA5cU"
+          },
+          {
+            "contestantUsername": "MOCHAMAD ILYAS",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERjZj5rd6Z0ua9eJ6DkisZ"
+          },
+          {
+            "contestantUsername": "Maria Dian Alnoella",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERsVbFatC0a9Md6ZCC40JK"
+          },
+          {
+            "contestantUsername": "Muhammad Azraf Putra Repol",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERBpL8fnVtOAdKKFfhHJui"
+          },
+          {
+            "contestantUsername": "Muhammad Faqih Husain",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERuwO2cEeR7Rz2WGSkH9xC"
+          },
+          {
+            "contestantUsername": "Muhammad Puji Prastyo",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSER3fL6NoNkXGNa8imIiNbK"
+          },
+          {
+            "contestantUsername": "Muhammad Rafif Rizqullah",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERfUmhl4wWrMdVTDEJTirT"
+          },
+          {
+            "contestantUsername": "Muhammad Zaidan Taftazani",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSEROueCWdyqvq6n14g6FxMo"
+          },
+          {
+            "contestantUsername": "Muhammad javier",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERCDdsSc8C729dGp4oER74"
+          },
+          {
+            "contestantUsername": "Nadia Ayula Assyaputri",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERtXGGcq89qnK9YgKtYe0Q"
+          },
+          {
+            "contestantUsername": "Nathan Sutikno",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERhitoBRDeVitYEOjDGgvP"
+          },
+          {
+            "contestantUsername": "Nicholas Satyaputra Lianto",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERbP5pAyu2QvMUnvz1QLAT"
+          },
+          {
+            "contestantUsername": "Raffi Ramadhan Tajudin",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSER6gINduMhMGC5hy5tVmOu"
+          },
+          {
+            "contestantUsername": "Rafika Puteri Ayu Nirmala",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSEReELAESFGbHHBrdxCcDof"
+          },
+          {
+            "contestantUsername": "Raply Muzaki Aliyafi",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERebrq7JiSW6zmBEs771iu"
+          },
+          {
+            "contestantUsername": "Risnadi Duta Permana",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSER6fMoP1Mb2Ot8FsWraOkW"
+          },
+          {
+            "contestantUsername": "Sahnaz Nurrizqy Nashrullah",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERuRDvhVoaj9AfyS4T35PH"
+          },
+          {
+            "contestantUsername": "Sekar Ayu Asmara",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERv2MzKz4ZkNhIhVi45GwC"
+          },
+          {
+            "contestantUsername": "Sherina Wijaya",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERvOimoH4ie3AptAZ9MN90"
+          },
+          {
+            "contestantUsername": "Solahuddin",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSER8Snxe0oBzXL9Ve8CFUdw"
+          },
+          {
+            "contestantUsername": "Theodore Abiel Karunia",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERCeKyzWD0RJxKsQgyjyxw"
+          },
+          {
+            "contestantUsername": "Vincent Gaudeo Lie",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERPHtJ3L79flVDLFfufSRW"
+          },
+          {
+            "contestantUsername": "Yavie Azka Putra Araly",
+            "contestantRating": 0,
+            "totalScores": 0,
+            "lastAffectingPenalty": 0,
+            "scores": [null, null, null, null, null, null, null, null],
+            "rank": 100,
+            "contestantJid": "JIDUSERTVCZjHQuG99NoXqPNQtP"
+          }
+        ]
+      },
+      "state": {
+        "problemJids": [
+          "JIDPROGtoVbk9af27SkGPTmCVjJ",
+          "JIDPROGMW4XxljLzzNk5T8PoDa7",
+          "JIDPROGes3NZiFtVceeqhZeDqbJ",
+          "JIDPROGTALHnbqgK3imq3FTb22A",
+          "JIDPROGr2lgQ2eH0MSqteqh1KQB",
+          "JIDPROGORbXPzCqkPOTWJgybA5R",
+          "JIDPROGJWbfiFUoWQIKZUG1uPHt",
+          "JIDPROGDGAbQAcgyHyePs7Rdr5b"
+        ],
+        "problemAliases": ["A", "B", "C", "D", "E", "F", "G", "H"],
+        "problemPoints": null
+      }
+    }
+  },
+  "profilesMap": {
+    "JIDUSERW2HgeB0V93BNDlomfvl2": {
+      "username": "M.Syauqyi Habibi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERhhzQSuD4owO6ZkOFXYO9": {
+      "username": "Muhammad Fazli Azmi Verdiansyah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEROwUuegqiJajarPA1fX8G": {
+      "username": "ANANDA LUTHFIAH FEBIANI",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEROtQB6kjTEM6BPayLGvLZ": {
+      "username": "Luigi Emiliandra",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERqWQkU9jqUbS6vpDLSSxe": {
+      "username": "Lalu Gilang Wirapati",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERDGgTQpBeHthnSjALqGP0": {
+      "username": "Banu Chrisnadi Yohanes",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERWKK8ZrpyGsK3bJfWE3UL": {
+      "username": "Evan Putra Pratama",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEROy4ABktCfrJU9oHNbYow": {
+      "username": "Giannina Indah Aini",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERRFRfSnqWXzcjsS0dA5cU": {
+      "username": "M. Adib Bakhtiyar A",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERwbec49s0uuz4ZvFu5xdM": {
+      "username": "Anggara Roshandi Putra",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERH5Br65juKMLC7XguJLtE": {
+      "username": "Adiel Rum",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERUDQPgjHxqdOh0uctUDYQ": {
+      "username": "Dany Irfansyah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER3fL6NoNkXGNa8imIiNbK": {
+      "username": "Muhammad Puji Prastyo",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERa3ZsiJE5FWFkvOWwGeYr": {
+      "username": "Sani Muhammad Daveisha Ali",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERGbX6CV8Gdj1rtQqUOOpR": {
+      "username": "Audra Aurora Izzani",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERD61ElG5X1SHh8PHbSMlK": {
+      "username": "Audrey Cherilyn Ilham",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERvuaC0mdz92qxlbHDgyOJ": {
+      "username": "Christopher Octave Sinjaya",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER4CEVEvEXbz0mr5j6JAxo": {
+      "username": "Kadek Galih Mahotama",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERErXaveBsieCSGBrTS5Gw": {
+      "username": "Achmad Alvian Prasetio",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERjHyhDUDRwETT1tLcdlYa": {
+      "username": "Muhammad hariz albaari",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEReZLugKf5gCEoeRlDtMNz": {
+      "username": "Alifah Nur Azizah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERa1qOegOmUSEFPJLSjAFf": {
+      "username": "Anisa Aulia Alhaqi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEReUpqEoVpCUtMbnknHVmo": {
+      "username": "Djoko Haryo Baskoro",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERLaqF8adc7wZjPUXYGbQ1": {
+      "username": "Roberto Eugenio Sugiarto",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERHcNjqpuC4NKPGNYjPm64": {
+      "username": "Zaranggi Arifin",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERfq7r3n6tQZhm1fr9oNTg": {
+      "username": "Endra Anugrah Apriyanto",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERqo3sMd7adiHJlga9k302": {
+      "username": "Kevin Nataniel Sutopo",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERPpjoWKnkwvaiP9AhwEsP": {
+      "username": "Yose Yehezkiel Maranata",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERqKFrfnI7KaQo6u7zfGii": {
+      "username": "Abdulrahman Toha",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERUKE5s7GrbqAOBAtRCZs7": {
+      "username": "Kimberly Prijadi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERzknVI1k5WS1F9c5SKOGI": {
+      "username": "Galih Nur Rizqy",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERlbVCOzSRYX3th4F4RnEv": {
+      "username": "Alvin Ahmad Kurniawan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERwI1XtmbmELsAIZh46Uzd": {
+      "username": "Yazid Aqila Haikal",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER9E91qoXehTgzIX1k4rwE": {
+      "username": "Andrew Wallace",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERzK0OKKsHO0YLTLOpeiN2": {
+      "username": "Matthew marcellino",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERTVCZjHQuG99NoXqPNQtP": {
+      "username": "Yavie Azka Putra Araly",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERdKhnvdtYGTdU3FEwcBwx": {
+      "username": "Muhammad Afrizan Rasya",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERRIZUu0A45N8ruFc32foO": {
+      "username": "Nugraha Billy Viandy",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERUuOijC5IHWn5pV0ujWId": {
+      "username": "Ahmad Wasis Shofiyulloh",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERvOimoH4ie3AptAZ9MN90": {
+      "username": "Sherina Wijaya",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERMurUDbHy9VPqkIPbmHdX": {
+      "username": "Lalu Nofal Afif Arizal",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERPHtJ3L79flVDLFfufSRW": {
+      "username": "Vincent Gaudeo Lie",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERy86zgA1wVsw70DvX0ogU": {
+      "username": "Kelven Nathanael",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERbpOYhfiNwNYTBLvRyH1y": {
+      "username": "Airin Nijananda",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERB5ajDCDJHFTAwsLjoYvv": {
+      "username": "Alexander Allan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERebrq7JiSW6zmBEs771iu": {
+      "username": "Raply Muzaki Aliyafi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERi3m9E4P3E1y20RZjchcU": {
+      "username": "Benedict Presley",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERihVZFgoBSckdZcgmlFZ3": {
+      "username": "Naila Atifa Asrif",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERtXGGcq89qnK9YgKtYe0Q": {
+      "username": "Nadia Ayula Assyaputri",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERsVbFatC0a9Md6ZCC40JK": {
+      "username": "Maria Dian Alnoella",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERo8MXQ8cqaLGC0BG4RhKm": {
+      "username": "Joel Gunawan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER5GWk8kgH5JHuHRdfMlBI": {
+      "username": "M.Hikari Reiziq Rakhmadinta",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERlzdtbZ5r0diWBGnOkSCB": {
+      "username": "Leontina Maydeline Davidson",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERgfpM5pN7QCVeV2UjqTr7": {
+      "username": "Faris Huda",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERxBtvwC6FCrEiEXT2hhEB": {
+      "username": "Nathanael Christian Tjandra",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERUOHtDi9HcvvmLzaZ1I5K": {
+      "username": "Adrian Nathanael",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERASpX93UdcCdsnOqzCJQN": {
+      "username": "Grendy Aditya Pangestu",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERVmIbgOHoVa4BscMMZH3a": {
+      "username": "Riki Adityawan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER6fMoP1Mb2Ot8FsWraOkW": {
+      "username": "Risnadi Duta Permana",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERllQEd6vIw9u4cwmJEGTW": {
+      "username": "Arlando A'la Putra Raharjo",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERXO1J4B5kW6vXdzY4kf3D": {
+      "username": "Syauqi Faza",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERnC0H0h6aEfIpHei6WsdF": {
+      "username": "Sayed Shahibbul Aulia",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERAEGLDkiKewqmKmstm7Ad": {
+      "username": "Chandra Tritaqwa Ramadhan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER7FjPbVZBpMvfzAPbFQqn": {
+      "username": "Mohammad Aryasatya Arifien",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERTlboL3d316f6IGo4Hzq4": {
+      "username": "Gilbran Mahdavika R",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERccvxo3lnbRHf5HBd6csW": {
+      "username": "Muhammad Fikri Ramadhan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERwJZGfquHOcThvYJDgtgd": {
+      "username": "Siti Shofi Nadhifa",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER9yYFLrZlbhtFIVjrAJYg": {
+      "username": "Muhammad Naufal Muzaki",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERWmPZdmwok45KhCZOuC3a": {
+      "username": "Devito Sanjaya Putra",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERDhguuxSDLWdgyegqllpV": {
+      "username": "Jonathan Irvin Susanto",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER3GIyHEm0Pmy4hDFiz98U": {
+      "username": "Egi Kurniawan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERKXl7g0xXz4Di8uMS3Y5n": {
+      "username": "Firza Mushermansyah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERejOBGFoc3X9Ok7h6RXtL": {
+      "username": "Tri Jannatun Mardiah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERBwHaiqAJmmZkafdtjNBW": {
+      "username": "ARDILA CAHYA RACHMADANI",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERY3lqYGNkCw1IYQVWWZ2m": {
+      "username": "Muhammad Akhyar Fahrurrozi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERkEWIcQQ8WZOcIykv9gbD": {
+      "username": "Andreas Timothy",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERKpGkNvfuAscUDNiciBhl": {
+      "username": "Anders Willard Leo",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERpUzr7TziPU0igpPrb9ic": {
+      "username": "Takeshi Henderson Herman",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERVwOsCxHpRHvbr25p5qsh": {
+      "username": "Alvin Ilham Hidayatullah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERNgXOKPfeem1FBYrXgD5N": {
+      "username": "Franklin Filbert Irwan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERdese9wgduvlf6g7Z830G": {
+      "username": "Alden Budiman",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERJo8GgUtMTcWZsSMSxuGK": {
+      "username": "Mochammad Nadhif Arfa Rayyan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERzG6pJCKCo2GmphdEkiXZ": {
+      "username": "Gabriella",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERHPYoxjIwvhG1XMnf1P0e": {
+      "username": "Ahmad Hilalul Fadli",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER19uwcGfFGFN7B7pNeXnH": {
+      "username": "Clement Kevin Tanadi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERDbonj5natGsT1yBJgzge": {
+      "username": "Ahmad Daffa Aminuddin Siregar",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERqaxMI7DuZHRhvWRLPSvK": {
+      "username": "Muhammad Naufal Ammr Dzakwan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERIyPyh2Rkyg97aicoDzSw": {
+      "username": "William Notowibowo",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERTbsWkypwf0CxlxXDHoXZ": {
+      "username": "Aldi Anugrah Khalik",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERCDZwLm5oRVDYNGej85T4": {
+      "username": "Kenneth Go",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERGrlnrtm6a4B1vnGr0UOi": {
+      "username": "Jansen Ken Pegrasio",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERjZj5rd6Z0ua9eJ6DkisZ": {
+      "username": "MOCHAMAD ILYAS",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERBpL8fnVtOAdKKFfhHJui": {
+      "username": "Muhammad Azraf Putra Repol",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERqkCNgFOywTYsvf3tjgoR": {
+      "username": "Aziz Adi Pramana",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERCtyAZcdrDZ2bSV6ZtMNH": {
+      "username": "Fathan Mubina",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERzRQsKSoblfhuUYYAPWQN": {
+      "username": "Muhammad Aqila",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERfSi9veQgHOT0cdPBPxMS": {
+      "username": "Raihan Akbar",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER7bQLEHPn7L3ITfdreKN3": {
+      "username": "Muhammad Brahmana Priambudi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERkiEGhOAq9O5JI4CX8QrJ": {
+      "username": "Vannes Wijaya",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEROeRkcraneC09aDvpYQl6": {
+      "username": "Ackhava Adam Malonda",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERqaF1AhPB1uDGMUk5Y0IE": {
+      "username": "Naufal Syahputra",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERHvkJc7hhy7J1POtJfulj": {
+      "username": "Abdul Jaber Syukur",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERp6BUtcwhxwD1p52Rmeq9": {
+      "username": "Athalariq Rifqi Rizqoni",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERCxHV5y2JYPIjomxhjdt7": {
+      "username": "Kayna Mufidah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERwSIgiyzh6NkwdpkXGxjj": {
+      "username": "Muhammad Fatih Irkham Mauludi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERVg8mnWb1gKxjL4WRhUBH": {
+      "username": "Salvatore Unedo",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERyYnVgL9J4GKCVNkEkjOE": {
+      "username": "Muhammad Alvito Devanova",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERlmLCM4EOBrDtwV2uXa1w": {
+      "username": "Muhammad Zuhair Zuhdi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERzvDlKWhYrddLb6u5Errv": {
+      "username": "Faishal Falih",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERXWkbA6RzrZobbPXJ873V": {
+      "username": "Christopher Jason Sidharta",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERy70XKCj0R4AEBhq6D5rt": {
+      "username": "Vincent Kristian Waluyo",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEReIxyYAVOFAfePkeMJiDH": {
+      "username": "Muhammad Haidar",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERhpKi0jcchPgzqzSDreoI": {
+      "username": "Kenneth Feivel Johannsen Hosannah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEROueCWdyqvq6n14g6FxMo": {
+      "username": "Muhammad Zaidan Taftazani",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER6P8IURAzowyTcz8RgUsK": {
+      "username": "Ahmad Wildan Fawwaz",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERw8bH5SD9KG5BdFfTsk9b": {
+      "username": "AHMAD FAHRESY",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERFhHG5ncVYqq3fdgUxMRY": {
+      "username": "Nathan Keith Poernama",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERXsmn7XNXSN6r3hXCiykQ": {
+      "username": "Azzam Harzuqi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER6tQNBPOJeubCTWhx4jXI": {
+      "username": "Achmad Javier Eka Caraka",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERF4SGcHdbLe3o7tIek3U4": {
+      "username": "Nindya Pramana",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERv2MzKz4ZkNhIhVi45GwC": {
+      "username": "Sekar Ayu Asmara",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER3AXMRUJEVvAfHcJrIzFW": {
+      "username": "Yomori Achiza",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERANSdz5S5xnSpvi1VOmQ7": {
+      "username": "Ghaly Abrarian Putra",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERFHxGLfBedrJb0JEirpHx": {
+      "username": "Mikhael Kevin Narendra Jayadharma",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERMhlxZb4ih5l92MhcQiga": {
+      "username": "Rayyan Aqsha Raditya",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEROZRkGoyaW1qnMj2ICOgl": {
+      "username": "Kevin Sutario",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERhx46cY0iqPZmb8p4OrIh": {
+      "username": "M Dimas Ardian Ramadan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERUwvqay1hvGqx4rrG4JyI": {
+      "username": "Andika Rizky Noval Nugraha",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERIE63zYsgUR4pNudTlMjs": {
+      "username": "Danar Abiyoga Prakosa",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERCDdsSc8C729dGp4oER74": {
+      "username": "Muhammad javier",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERsVGIfQS6q8UBUMnRoWOe": {
+      "username": "Moch. Mizan Ghodafail",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERAqg6PagUG5JdDLYRkrhf": {
+      "username": "Fiorenza Adelia Nalle",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERIOl2EDMTctfZACcJY0qB": {
+      "username": "MAULANA RIYAN SAPUTRA",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERfUmhl4wWrMdVTDEJTirT": {
+      "username": "Muhammad Rafif Rizqullah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERzwUD29L9YeMOh66JdlpM": {
+      "username": "Paundra Pujo Darmawan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERZK1W3gejBaBeUej6hu8K": {
+      "username": "rakha hanif lutfirrahman",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERfT9PTpIXfSFj2RLcelr8": {
+      "username": "ILMAN NAFI'AN",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERbP5pAyu2QvMUnvz1QLAT": {
+      "username": "Nicholas Satyaputra Lianto",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERuwO2cEeR7Rz2WGSkH9xC": {
+      "username": "Muhammad Faqih Husain",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERA3R7MjoWmJpd0z0tO1A8": {
+      "username": "Nasywa Cettasyafiq",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER5ilSFKOswfxR8tHXVI3Q": {
+      "username": "Jefferson Dermawan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERuRDvhVoaj9AfyS4T35PH": {
+      "username": "Sahnaz Nurrizqy Nashrullah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER3VGVocv52RCXeJFoLpti": {
+      "username": "Moh. Wildan Risqi Maulidi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERAsNbXD76PVwgCKYUpZfH": {
+      "username": "Reditya Imanuel Yuwono",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERwXxyXIP4uaJfE6J5DlSS": {
+      "username": "AZKA RIZQULLAH RAMADHANI",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERsl4W36ApbsIweWbUqdC8": {
+      "username": "Achmad Verriel Irawan Hanafiano",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERk6fpf89Ildl0b4ZA83XB": {
+      "username": "Dean Agha Koeswantoro",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERxfDxKTAdWyYgdy4xf1zB": {
+      "username": "Joceline Araki",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERCpfnC3PBxl8Cxnrf3C6m": {
+      "username": "Rivaldo Widya Albuchori",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERgBW8iGVOEqsjozuDUSGu": {
+      "username": "Hanif Aqil Janardana",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERnGc47DyhqySkERP1dLzM": {
+      "username": "Daffa Rayhan Ananda",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER8Snxe0oBzXL9Ve8CFUdw": {
+      "username": "Solahuddin",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERUFJfsNRS2lUkIGZ0TyGU": {
+      "username": "Tegar Ramdhani",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERARskhuXEJKpNxkBuBAKJ": {
+      "username": "Gustav Ian Setiabudi",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERZNxqZAO2u3ARwARfclfF": {
+      "username": "Ferrel Himawan Handoyo",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERigV87nRPA4npAHdLrDz2": {
+      "username": "Tjia Gleen Ryan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERqlHfZdfsKGZSmZuMAlSR": {
+      "username": "Nedia Cinta",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERZhLdvcqQHIakegYeV1dx": {
+      "username": "Timothy Grace Ariel Putranda",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERlT7aQklQw5OLuKP9mokx": {
+      "username": "Rozan Laudzai",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERSsWsVvkSs6SeX3eR5vfz": {
+      "username": "Annabel Kayla Talitha",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERT974MtFmpRjJVgTfUArG": {
+      "username": "Zalfa Nafila Khairunnisa",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERCYkEMl8aPuks8UVhQtUz": {
+      "username": "Muhammad Buyung Saloka",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERKJGGd6TQ3r4xAhtjg7Po": {
+      "username": "Christopher Adi Wijaya",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER6gINduMhMGC5hy5tVmOu": {
+      "username": "Raffi Ramadhan Tajudin",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERwMewQCTOvLwFuboZ8cRb": {
+      "username": "Fauzan Maulandhika",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERwZIM4iPFLQoVtYpjSfMm": {
+      "username": "Albert Ariel Putra",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER4MjaSCRDD7Py5452DlYK": {
+      "username": "Bima Yoga Samega",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERCeKyzWD0RJxKsQgyjyxw": {
+      "username": "Theodore Abiel Karunia",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER02svBGbLQYwDsW2qOrAI": {
+      "username": "Gunadi Gani",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERCfbFchPhHIXK0Z3PZoQ7": {
+      "username": "Gregory Edward Suryawan",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER3J2Os6cJXjs3ClVkwCeV": {
+      "username": "Daniel Liman",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSER1VwvlQUxp010ljanlPAq": {
+      "username": "Elang Pandi P",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERXvHoAcZpOTZx5JV31hxH": {
+      "username": "Davin Pandya Wala Khotob",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERXB8puGwmOz8cQg8H6UIG": {
+      "username": "Marvin Alvianus Rainhard",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERBszygYTCbJVlXoFbYJp6": {
+      "username": "Najwan Aribena Pratama",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERD4cAuUhVk6Ce9ppnj8U9": {
+      "username": "Aamira Kalila E.H",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSEReELAESFGbHHBrdxCcDof": {
+      "username": "Rafika Puteri Ayu Nirmala",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERc4RjHZy03d18zEEuQdxk": {
+      "username": "Arvind Dharma Dwiadmodjo",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERQzZWGXquM3KJpmycDpj3": {
+      "username": "Muhammad Raza Anugrah",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERDPnZJVNVOLdL44Y0get6": {
+      "username": "Muhammad Lanang Z. H.",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERMd1Iec2ZweYfaa81YVd8": {
+      "username": "Kamelia Rizkiana",
+      "country": "ID",
+      "rating": null
+    },
+    "JIDUSERhitoBRDeVitYEOjDGgvP": {
+      "username": "Nathan Sutikno",
+      "country": "ID",
+      "rating": null
+    }
+  },
+  "config": {
+    "canViewOfficialAndFrozen": true,
+    "canViewClosedProblems": false,
+    "canRefresh": true,
+    "canViewSubmissions": false
+  }
+}
